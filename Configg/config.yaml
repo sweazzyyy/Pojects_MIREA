@@ -1,0 +1,3 @@
+log: ./commits.log
+script: ./start_script.txt
+vfs: ./vfs.tar
